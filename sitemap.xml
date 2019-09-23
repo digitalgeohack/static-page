@@ -3,51 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://digitalgeohack.github.io/post/first-anouncement/</loc>
+    <loc>https://www.example.com/tags/announcement/</loc>
     <lastmod>2019-08-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://digitalgeohack.github.io/</loc>
-    <lastmod>2019-08-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://digitalgeohack.github.io/post/</loc>
+    <loc>https://www.example.com/post/first-anouncement/</loc>
     <lastmod>2019-08-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://digitalgeohack.github.io/tags/</loc>
-    <lastmod>2019-08-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://digitalgeohack.github.io/about/</loc>
+    <loc>https://www.example.com/post/second-anouncement/</loc>
     <lastmod>2019-08-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://digitalgeohack.github.io/tags/announcement/</loc>
+    <loc>https://www.example.com/</loc>
     <lastmod>2019-08-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://digitalgeohack.github.io/categories/</loc>
-    <priority>0</priority>
+    <loc>https://www.example.com/post/</loc>
+    <lastmod>2019-08-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://digitalgeohack.github.io/series/</loc>
-    <priority>0</priority>
+    <loc>https://www.example.com/tags/</loc>
+    <lastmod>2019-08-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://digitalgeohack.github.io/tags/index/</loc>
-    <priority>0</priority>
+    <loc>https://www.example.com/about/</loc>
+    <lastmod>2019-08-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/series/</loc>
   </url>
   
 </urlset>
