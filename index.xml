@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DigitalGeoHack</title>
-    <link>https://www.example.com/</link>
+    <link>https://digitalgeohack.github.io/</link>
     <description>Recent content on DigitalGeoHack</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://digitalgeohack.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Digital Geosciences Hackathon - 1st Anouncement</title>
-      <link>https://www.example.com/post/first-anouncement/</link>
+      <title>Digital Geosciences Hackathon - 15 and 16th November</title>
+      <link>https://digitalgeohack.github.io/post/second-anouncement/</link>
       <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/post/first-anouncement/</guid>
-      <description>We plan to host a two day hackathon at the Institut de Physique du Globe de Paris on the 15th and 16th November 2019. This two day event will focus on solving problems related to digitalisation within the subsurface software stack. We wish to bring together data engineers, data scientists, petroleum engineers and geoscientists.</description>
-    </item>
-    
-    <item>
-      <title>Digital Geosciences Hackathon - 1st Anouncement</title>
-      <link>https://www.example.com/post/second-anouncement/</link>
-      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.example.com/post/second-anouncement/</guid>
+      <guid>https://digitalgeohack.github.io/post/second-anouncement/</guid>
       <description>We are excited to announce that the European Association of Geoscientists and Engineers is sponsering the hackathon! Tickets at 11,85 € are now available for the hackathon via eventbrite.
 More to come soon!</description>
     </item>
     
     <item>
-      <title>Who we are</title>
-      <link>https://www.example.com/about/</link>
+      <title>Digital Geosciences Hackathon - 1st Anouncement</title>
+      <link>https://digitalgeohack.github.io/post/first-anouncement/</link>
       <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/about/</guid>
+      <guid>https://digitalgeohack.github.io/post/first-anouncement/</guid>
+      <description>We plan to host a two day hackathon at the Institut de Physique du Globe de Paris on the 15th and 16th November 2019. This two day event will focus on solving problems related to digitalisation within the subsurface software stack. We wish to bring together data engineers, data scientists, petroleum engineers and geoscientists.</description>
+    </item>
+    
+    <item>
+      <title>Who we are</title>
+      <link>https://digitalgeohack.github.io/about/</link>
+      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://digitalgeohack.github.io/about/</guid>
       <description>We are a collection of Earth and data scientists based in paris:
  Milena Marjanovic Matthias Meschede Fernando Villanueva Miao Yu John Armitage  </description>
     </item>
